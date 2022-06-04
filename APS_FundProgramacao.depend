@@ -1,0 +1,333 @@
+# depslib dependency file v1.0
+1466897656 source:c:\users\usuário\documents\engenharia de computacao\aps_programacao\aps_fundprogramacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467072466 a.h"
+
+1466916685 source:c:\users\usuário\documents\engenharia de computacao\aps_programacao\aps_fundprogramacao\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1466916655 c:\users\usuário\documents\engenharia de computacao\aps_programacao\aps_fundprogramacao\biblioteca.h
+
+1466967704 source:/media/ryusz/PENISDRIVE2/APS_PROGRAMACAO/APS_FundProgramacao/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1466969553 /media/ryusz/PENISDRIVE2/APS_PROGRAMACAO/APS_FundProgramacao/biblioteca.h
+
+1466970417 source:/home/ryusz/Documentos/APS_FundProgramacao/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1466969553 /home/ryusz/Documentos/APS_FundProgramacao/biblioteca.h
+
+1466967704 source:/home/ryusz/Documentos/APS_FundProgramacao/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467145769 source:c:\users\usuário\desktop\aps_fundprogramacao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467145611 c:\users\usuário\desktop\aps_fundprogramacao2\biblioteca.h
+
+1467147280 source:c:\users\usuário\desktop\aps_fundprogramacao2\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467077237 source:c:\users\vanice\desktop\aps_fundprogramacao2\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467056638 c:\users\vanice\desktop\aps_fundprogramacao2\biblioteca.h
+
+1467072466 source:c:\users\vanice\desktop\aps_fundprogramacao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467151901 source:/home/ryusz/Desktop/APS_FundProgramacao2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467153153 /home/ryusz/Desktop/APS_FundProgramacao2/biblioteca.h
+
+1467152275 source:/home/ryusz/Desktop/APS_FundProgramacao2/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467165594 source:/home/luis/Desktop/APS_FundProgramacao2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"tabela.h"
+
+1467162435 /home/luis/Desktop/APS_FundProgramacao2/biblioteca.h
+
+1467162435 source:/home/luis/Desktop/APS_FundProgramacao2/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1467165684 source:/home/luis/Desktop/APS_FundProgramacao2/cadastro_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"sorteio.h"
+	"tabela.h"
+
+1467163847 /home/luis/Desktop/APS_FundProgramacao2/cadastro_menu.h
+
+1467165452 /home/luis/Desktop/APS_FundProgramacao2/sorteio.h
+	"cadastro_menu.h"
+
+1467163847 source:/home/luis/Desktop/APS_FundProgramacao2/sorteio.c
+	<stdio.h>
+	<stdlib.h>
+	"sorteio.h"
+
+1467162435 source:/home/luis/Desktop/APS_FundProgramacao2/tabela.c
+	<stdio.h>
+	<stdlib.h>
+	"tabela.h"
+
+1467162435 /home/luis/Desktop/APS_FundProgramacao2/tabela.h
+
+1467162435 source:/home/luis/Desktop/APS_FundProgramacao2/utilitarios.c
+	<stdlib.h>
+	<stdio.h>
+	"utilitarios.h"
+
+1467163847 /home/luis/Desktop/APS_FundProgramacao2/utilitarios.h
+
+1467188780 source:c:\users\usuário\desktop\aps_fundprogramacao1\cadastro_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"sorteio.h"
+	"tabela.h"
+	"utilitarios.h"
+
+1467216432 c:\users\usuário\desktop\aps_fundprogramacao1\cadastro_menu.h
+	"sorteio.h"
+
+1467217084 c:\users\usuário\desktop\aps_fundprogramacao1\sorteio.h
+	"cadastro_menu.h"
+
+1467188780 c:\users\usuário\desktop\aps_fundprogramacao1\tabela.h
+
+1467216281 c:\users\usuário\desktop\aps_fundprogramacao1\utilitarios.h
+	"cadastro_menu.h"
+	"sorteio.h"
+
+1467216239 source:c:\users\usuário\desktop\aps_fundprogramacao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"tabela.h"
+	"utilitarios.h"
+	"sorteio.h"
+
+1467238363 source:c:\users\vanice\desktop\aps_fundprogramacao1\cadastro_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"sorteio.h"
+	"utilitarios.h"
+
+1467229232 c:\users\vanice\desktop\aps_fundprogramacao1\cadastro_menu.h
+
+1467228141 c:\users\vanice\desktop\aps_fundprogramacao1\sorteio.h
+	"cadastro_menu.h"
+
+1467218266 c:\users\vanice\desktop\aps_fundprogramacao1\utilitarios.h
+	"cadastro_menu.h"
+	"sorteio.h"
+
+1467221962 source:c:\users\vanice\desktop\aps_fundprogramacao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"utilitarios.h"
+	"sorteio.h"
+
+1467238754 source:c:\users\vanice\desktop\aps_fundprogramacao1\sorteio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarios.h"
+	"cadastro_menu.h"
+
+1467238754 source:c:\users\vanice\desktop\aps_fundprogramacao1\utilitarios.c
+	<stdlib.h>
+	<stdio.h>
+	"utilitarios.h"
+
+1467246912 source:c:\users\aluno\desktop\aps_fundprogramacao1\cadastro_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"sorteio.h"
+	"utilitarios.h"
+
+1467244878 c:\users\aluno\desktop\aps_fundprogramacao1\cadastro_menu.h
+
+1467228142 c:\users\aluno\desktop\aps_fundprogramacao1\sorteio.h
+	"cadastro_menu.h"
+
+1467218266 c:\users\aluno\desktop\aps_fundprogramacao1\utilitarios.h
+	"cadastro_menu.h"
+	"sorteio.h"
+
+1467221962 source:c:\users\aluno\desktop\aps_fundprogramacao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"utilitarios.h"
+	"sorteio.h"
+
+1467243920 source:c:\users\aluno\desktop\aps_fundprogramacao1\utilitarios.c
+	<stdlib.h>
+	<stdio.h>
+	"utilitarios.h"
+	<string.h>
+
+1467243884 source:c:\users\aluno\desktop\aps_fundprogramacao1\sorteio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarios.h"
+	"cadastro_menu.h"
+
+1467246914 source:e:\aps_fundprogramacao1\cadastro_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"sorteio.h"
+	"utilitarios.h"
+
+1467244880 e:\aps_fundprogramacao1\cadastro_menu.h
+
+1467228142 e:\aps_fundprogramacao1\sorteio.h
+	"cadastro_menu.h"
+
+1467218266 e:\aps_fundprogramacao1\utilitarios.h
+	"cadastro_menu.h"
+	"sorteio.h"
+
+1467221962 source:e:\aps_fundprogramacao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"utilitarios.h"
+	"sorteio.h"
+
+1467247630 source:e:\aps_fundprogramacao1\sorteio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarios.h"
+	"cadastro_menu.h"
+
+1467243922 source:e:\aps_fundprogramacao1\utilitarios.c
+	<stdlib.h>
+	<stdio.h>
+	"utilitarios.h"
+	<string.h>
+
+1467246914 source:f:\aps_fundprogramacao1\cadastro_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"sorteio.h"
+	"utilitarios.h"
+
+1467244880 f:\aps_fundprogramacao1\cadastro_menu.h
+
+1467228142 f:\aps_fundprogramacao1\sorteio.h
+	"cadastro_menu.h"
+
+1467218266 f:\aps_fundprogramacao1\utilitarios.h
+	"cadastro_menu.h"
+	"sorteio.h"
+
+1467221962 source:f:\aps_fundprogramacao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"cadastro_menu.h"
+	"utilitarios.h"
+	"sorteio.h"
+
+1467247630 source:f:\aps_fundprogramacao1\sorteio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utilitarios.h"
+	"cadastro_menu.h"
+
+1467243922 source:f:\aps_fundprogramacao1\utilitarios.c
+	<stdlib.h>
+	<stdio.h>
+	"utilitarios.h"
+	<string.h>
+
